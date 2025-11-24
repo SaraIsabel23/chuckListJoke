@@ -25,16 +25,7 @@ Podrías ser algo como esto:
 - 📁 **css**: Hoja de estilo básica para dar estilo a la interfaz.
 - 📁 **js**: Código JavaScript que maneja la lógica de obtener, mostrar y eliminar chistes.
 
-## Pistas e ideas
 
-La idea podría ser la siguiente 
-- Manejador de click en el botón "Obtener Chiste"
-- Una función para obtener un chiste de Chuck Norris desde la API
-- Una función para renderizar la lista de chistes en el DOM
-- Una función para guardar la lista de chistes en localStorage
-- Una función para cargar la lista de chistes desde localStorage
-
-revisar si fuera necesario `JSON.stringify` y `JSON.parse` para los datos del localStorage
 
 ## BONUS
 Como BONUS crear un botón para eliminar todos los elementos a la vez y/o un botón para eliminar uno a uno el elemento seleccionado 
